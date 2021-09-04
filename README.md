@@ -12,3 +12,8 @@
 
 ![Screen Shot 2021-09-04 at 13 21 24](https://user-images.githubusercontent.com/55243132/132085038-7304c04d-a219-4fe0-a866-3fb8ea32ecba.png)
 
+- [#47 Corona](https://cssbattle.dev/play/47) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2347-Corona.html))
+
+![Screen Shot 2021-09-04 at 13 43 20](https://user-images.githubusercontent.com/55243132/132085491-87267a05-7ce2-4654-bbd6-d1e007dcccac.png)
+
+
