@@ -16,7 +16,7 @@
 
 ![Screen Shot 2021-09-04 at 13 43 20](https://user-images.githubusercontent.com/55243132/132085491-87267a05-7ce2-4654-bbd6-d1e007dcccac.png)
 
-- [#11 Skull](https://cssbattle.dev/play/11) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2311-Skull.html))
+- [#56 Skull](https://cssbattle.dev/play/56) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2311-Skull.html))
 
 ![Screen Shot 2021-09-04 at 14 13 32](https://user-images.githubusercontent.com/55243132/132086193-be0c003c-7067-46f4-91df-3b07ed323e89.png)
 
