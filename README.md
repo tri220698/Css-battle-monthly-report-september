@@ -27,3 +27,8 @@
 - [#53 Pastel Logo](https://cssbattle.dev/play/53) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2353-Pastel-logo.html))
 
 ![Screen Shot 2021-09-04 at 14 56 10](https://user-images.githubusercontent.com/55243132/132087407-e910fabd-e7ae-4734-8a49-067ae8650cc9.png)
+
+- [#73 Pastel Logo](https://cssbattle.dev/play/73) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2373-Happy-tiger.html))
+
+![Screen Shot 2021-09-04 at 15 25 10](https://user-images.githubusercontent.com/55243132/132088131-d7fd5fcd-5b23-48e8-9237-8eb65416c0f7.png)
+
