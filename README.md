@@ -24,3 +24,6 @@
 
 ![Screen Shot 2021-09-04 at 14 45 53](https://user-images.githubusercontent.com/55243132/132087164-19a6b883-1222-4545-a5e3-78313b7d37a8.png)
 
+- [#53 Pastel Logo](https://cssbattle.dev/play/53) ([code](https://github.com/tri220698/Css-battle-monthly-report-september/blob/main/%2353-Pastel-logo.html))
+
+![Screen Shot 2021-09-04 at 14 56 10](https://user-images.githubusercontent.com/55243132/132087407-e910fabd-e7ae-4734-8a49-067ae8650cc9.png)
